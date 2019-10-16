@@ -2,9 +2,14 @@ body {
   margin: 4px;
 }
 .list-group-item:hover {
+  user-select: none;
   color: white;
   background: #5bc0de;
   cursor: pointer;
+}
+.list-group-item:active {
+  color: white;
+  background: #4795ad;
 }
 
 img {
@@ -12,4 +17,5 @@ img {
 }
 textarea {
   width: 100%;
+  resize: none;
 }
