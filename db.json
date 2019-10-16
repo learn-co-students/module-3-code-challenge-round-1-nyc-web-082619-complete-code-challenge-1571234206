@@ -5,7 +5,7 @@
       "name": "Buzz",
       "tagline": "A Real Bitter Experience.",
       "first_brewed": "09/2007",
-      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+      "description": {},
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Spicy chicken tikka masala",
@@ -80,7 +80,7 @@
       "name": "AB:12",
       "tagline": "Imperial Black Belgian Ale.",
       "first_brewed": "07/2012",
-      "description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local.",
+      "description": {},
       "image_url": "https://images.punkapi.com/v2/7.png",
       "food_pairing": [
         "Tandoori lamb with pomegranate",
@@ -125,7 +125,7 @@
       "name": "Misspent Youth",
       "tagline": "Milk & Honey Scotch Ale.",
       "first_brewed": "04/2013",
-      "description": "The brainchild of our small batch brewer, George Woods. A dangerously drinkable milk sugar- infused Scotch Ale.",
+      "description": {},
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Roasted garlic and chilli infused camembert cheese",
@@ -216,7 +216,7 @@
       "name": "AB:06",
       "tagline": "Imperial Black IPA.",
       "first_brewed": "04/2011",
-      "description": "Our sixth Abstrakt, this imperial black IPA combined dark malts with a monumental triple dry-hop, using an all-star team of some of our favourite American hops. Roasty and resinous.",
+      "description": {},
       "image_url": "https://images.punkapi.com/v2/17.png",
       "food_pairing": [
         "Coffee dusted venison loin",
@@ -261,7 +261,7 @@
       "name": "Rabiator",
       "tagline": "Imperial Wheat Beer",
       "first_brewed": "03/2011",
-      "description": "Imperial Wheat beer / Weizenbock brewed by a homesick German in leather trousers. Think banana bread, bubble gum and David Hasselhoff.",
+      "description": "",
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Grilled portabello mushroom burger",
@@ -336,7 +336,7 @@
       "name": "Bad Pixie",
       "tagline": "Spiced Wheat Beer.",
       "first_brewed": "10/2008",
-      "description": "2008 Prototype beer, a 4.7% wheat ale with crushed juniper berries and citrus peel.",
+      "description": {},
       "image_url": "https://images.punkapi.com/v2/25.png",
       "food_pairing": [
         "Poached sole fillet with capers",
