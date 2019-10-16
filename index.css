@@ -1,0 +1,15 @@
+body {
+  margin: 4px;
+}
+.list-group-item:hover {
+  color: white;
+  background: #5bc0de;
+  cursor: pointer;
+}
+
+img {
+  max-height: 200px;
+}
+textarea {
+  width: 100%;
+}

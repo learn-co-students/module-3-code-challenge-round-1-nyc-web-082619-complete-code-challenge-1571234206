@@ -21,7 +21,7 @@ function renderBeerDetail(beer) {
     <h1>${beer.name}</h1>
     <img src="${beer.image_url}"/>
     <h3>${beer.tagline}</h3>
-    <textarea id='beer-description'>${beer.description}</textarea>
+    <textarea rows=8 id='beer-description'>${beer.description}</textarea>
     <button data-id="${beer.id}" class="btn btn-info">Save</button>
 `;
 }
@@ -43,15 +43,14 @@ detail.addEventListener("click", e => {
       description: msg
     };
 
-    const meta = {
+    const options = {
       method: "PATCH",
       headers: {
-        "Content-Type": "application/json",
-        Accept: "application/json"
+        "Content-Type": "application/json"
       },
       body: JSON.stringify(content)
     };
 
-    fetch(BEER_PATH(id), meta).catch(alert);
+    fetch(BEER_PATH(id), options).catch(alert);
   }
 });
